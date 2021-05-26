@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ShareBill</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="executive_posykart">Executive Posykart</string>
+    <string name="organization">Organization</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="contact_no">Contact No</string>
+    <string name="plane">Plane</string>
+    <string name="staring_date">Starting Date</string>
+    <string name="complementary">Complementary</string>
+    <string name="other">Other</string>
+    <string name="amount">Amount</string>
+    <string name="payment">Payment</string>
+    <string name="cash">Cash</string>
+    <string name="upi">UPI</string>
+    <string name="check">Check</string>
+    <string name="registration">Registration</string>
+    <string name="send_message">Send Message</string>
+    <string name="send_mail">Send Mail</string>
+    <string name="customer_detail">Customer Detail</string>
+</resources>
